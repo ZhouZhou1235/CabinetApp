@@ -1,0 +1,5 @@
+{
+    "bili_user":"https://api.bilibili.com/x/web-interface/card",
+    "bili_fans":"https://api.bilibili.com/x/relation/followers",
+    "bili_follows":"https://api.bilibili.com/x/relation/followings"
+}

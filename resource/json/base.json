@@ -1,0 +1,20 @@
+{
+    "APP_TITLE":"粉糖收纳柜",
+    "APP_WELCOME":"粉糖收纳柜 小蓝狗正在开盒！（不是）-w-",
+    "APP_ICON":"resource/images/icon.png",
+    "APP_LOGO":"resource/images/logo.png",
+    "APP_SAVE":"data/",
+    "APP_ENCODING":"UTF-8",
+    "APP_fontSize":18,
+    "APP_fontFamily":"SimHei",
+    "APP_runButton":"粉糖收纳",
+    "APP_runTimer":3,
+    "APP_htmlTemplate":"html/template/",
+    "TIP_default":"输入指令开始运行",
+    "TIP_running":"爬虫正在运转......不要操作",
+    "TIP_success":"爬取完毕",
+    "TIP_failed":"爬取失败",
+    "TIP_failed_text":"请检查命令、网络连接或者配置正确\n若仍失败 可能是服务器拒绝回复",
+    "TIP_success_text":"运行完成 到输出文件夹中查看结果",
+    "RUN_bili":"bilibili"
+}

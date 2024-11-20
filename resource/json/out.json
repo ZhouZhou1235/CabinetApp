@@ -1,0 +1,8 @@
+{
+    "url":{
+        "bili_htmlOut":"data/bili/"
+    },
+    "filenames":{
+        "template_biliFriends":"BiliGreatFriends.txt"
+    }
+}
